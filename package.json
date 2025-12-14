@@ -1,0 +1,11 @@
+
+{
+  "name": "vynixc-payment-api",
+  "version": "1.0.0",
+  "description": "Lightweight Payment API for the Kainure framework",
+  "main": "VynixC.js",
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  }
+}
