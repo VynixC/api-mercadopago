@@ -6,7 +6,7 @@ A lightweight and customizable payment API for the **Kainure** framework, design
 
 ## 📦 Installation
 
-Place `VynixC.js` inside:
+Place `api-mercadopago.js` inside:
 
 ```
 Kainure/includes/
